@@ -814,9 +814,28 @@ The next major engineering step is to move from a fixed-coordinate decoder towar
 
 ## License
 
-No explicit license file was included in the supplied project archive.
+Personal Use License
 
-Before publishing the repository publicly, add a license such as MIT, Apache-2.0, or another license that matches the project's intended use.
+Copyright (c) 2026 Sowhardo
+
+This project is provided for personal, educational, and non-commercial use only.
+
+You are permitted to:
+- Download and use the project for personal purposes.
+- Modify the source code for personal use.
+- Study and experiment with the project.
+- Share the project for non-commercial purposes, provided this license
+  and copyright notice remain included.
+
+You are NOT permitted to:
+- Sell this project or modified versions of it.
+- Use this project in a commercial product or service.
+- Redistribute this project for commercial purposes.
+- Claim the project as your own work.
+
+Commercial use requires prior written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ---
 
