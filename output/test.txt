@@ -1,0 +1,26 @@
+I am Sowhardo, 
+
+a student and technology enthusiast from Bangladesh who spends much of his time exploring the world of programming, electronics,
+and advanced technology. Ever since I became interested in computers and microcontrollers, I have enjoyed learning how systems work behind the scenes, 
+whether it is writing code, building circuits, or experimenting with new ideas that combine hardware and software together.
+Programming is not just a hobby for me; it is something I genuinely enjoy because it allows me to create things from imagination and turn ideas into real working projects.
+
+I often work with boards like the ESP32, Arduino, RP2040, and ESP8266, building projects related to communication systems, robotics, automation, and data processing.
+While many people spend hours scrolling endlessly through short videos engineered to dissolve attention spans into digital soup, I prefer spending time solving technical problems,
+testing devices, and learning new concepts that push my thinking further.
+One of my favorite hobbies is experimenting with electronics and embedded systems. I enjoy connecting sensors, displays,
+wireless modules, and different microcontrollers to create useful or unusual projects. I also like exploring networking,
+artificial intelligence, Bluetooth systems, and wireless communication between devices. Beyond hardware,
+
+I am deeply interested in software engineering and critical thinking. I enjoy analyzing how technology works internally instead of only using it at the surface level.
+That curiosity often leads me to research advanced programming concepts, optimization techniques, and ways to make systems faster and smarter.
+Mathematics and logical problem solving also interest me because they help build the foundation for programming and engineering.
+As a student, I continue learning every day and constantly challenge myself with bigger projects and more advanced ideas.
+
+I believe technology has the power to improve people’s lives when used creatively and responsibly.
+My goal is to keep improving my skills, build innovative systems, and contribute something meaningful in the future.
+Even though learning difficult topics can sometimes be frustrating, I enjoy the process because every challenge teaches something valuable.
+
+I want to continue growing as a programmer, engineer, and thinker while exploring new technologies that shape the modern world.
+Human civilization may occasionally resemble a giant beta test held together with electrical tape and caffeine,
+but creating things that actually work inside that chaos is strangely satisfying.

@@ -1,0 +1,17 @@
+Cell Size Settings
+
+- Lowest Supported: 8
+- Recommended: 17
+- Higher sizes improve print and scan reliability
+
+Choose the cell size based on:
+- Printer quality
+- Camera/scanner accuracy
+- Lighting conditions
+
+Capacity Example
+
+Cell Size: 8
+Rated Capacity: 14.71725 KB ± 0.00005 KB
+
+Smaller cells increase storage capacity but require more precise printing and scanning.

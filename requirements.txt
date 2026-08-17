@@ -1,0 +1,7 @@
+pillow
+opencv-python
+numpy
+reedsolo
+
+
+##pip install -r requirements.txt
