@@ -1,34 +1,3 @@
-# ==========================================================
-# PAPERSTORE OMR FIXED
-# ==========================================================
-#
-# FEATURES
-# --------
-# ✔ Text file storage
-# ✔ Stable OMR grid
-# ✔ Fixed traversal
-# ✔ No sync searching
-# ✔ Reserved timing cells
-# ✔ Alignment guide dots
-# ✔ Shared master grid
-# ✔ CRC verification
-# ✔ Adjustable paper size
-# ✔ Adjustable cell size
-# ✔ Interactive CMD
-# ✔ PNG-safe output
-#
-# IMPORTANT
-# ---------
-# USE:
-# - PNG ONLY
-# - CELL SIZE 16-20
-#
-# INSTALL
-# -------
-# pip install pillow numpy opencv-python
-#
-# ==========================================================
-
 import os
 import cv2
 import json
